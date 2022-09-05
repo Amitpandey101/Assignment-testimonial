@@ -1,0 +1,31 @@
+.test-corousal{
+   text-align: center;
+   background-color: #f2f2f2;
+   align-items: center;
+   justify-content: center;
+   align-content: center;
+   margin-bottom: 2rem;
+}
+.card{
+    width:100%;
+    height: 500px;
+    background-color: #fff;
+    font-size: 30px;
+    margin: auto 10px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 5;
+
+}
+.my-image{
+    border-radius: 50%;
+}
+.myauthorname{
+   
+        font-size: 18px;
+        font-weight: 600;
+        color: #121212;
+       
+    
+}
